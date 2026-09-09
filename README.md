@@ -103,7 +103,7 @@ Se você também se interessa por **DevOps, Python, Cloud, Linux, automação ou
 
 ### 🔗 LinkedIn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/nicolas-nomelini-a88377248)
 
 ---
 
